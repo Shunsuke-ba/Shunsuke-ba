@@ -1,10 +1,6 @@
 ### I am Shunsuke-ba
-<a href="https://github.com/Shunsuke-ba/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shunsuke-ba&theme=tokyonight" />
-  </a>
-<a href="https://github.com/Shunsuke-ba/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shunsuke-ba&hide=javascript,html")](https://github.com/anuraghazra/github-readme-stats)>
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight">
 <!--
 **Shunsuke-ba/Shunsuke-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
