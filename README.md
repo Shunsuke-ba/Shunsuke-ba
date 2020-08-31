@@ -1,5 +1,5 @@
 ### I am Shunsuke-ba
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=satorunooshie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shunsuke-ba)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-i-0904&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunsuke-ba&layout=compact)
 
